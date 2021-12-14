@@ -28,7 +28,7 @@ app = FastAPI(
 
 @app.get("/", include_in_schema=False)
 def get_root() -> dict:
-    return {"message": "Welcome to the h4ck1ng server."}
+    return {"message": "Welcome to the candleaf api."}
 
 
 # Benefit

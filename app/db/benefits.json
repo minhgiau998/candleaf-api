@@ -1,0 +1,26 @@
+[
+  {
+    "createdAt": "2021-11-18T11:21:58.941Z",
+    "title": "Clean and fragrant soy wax",
+    "description": "Made for your home and for your wellness",
+    "benefits": [
+      {
+        "title": "Eco-sustainable",
+        "description": "All recyclable materials, 0% CO2 emissions."
+      },
+      {
+        "title": "Hyphoallergenic",
+        "description": "100% natural, human friendly ingredients."
+      },
+      {
+        "title": "Handmade",
+        "description": "All candles are craftly made with love."
+      },
+      {
+        "title": "Long burns",
+        "description": "No more waste. Created for last long."
+      }
+    ],
+    "id": "1"
+  }
+]

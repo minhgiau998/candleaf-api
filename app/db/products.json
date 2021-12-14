@@ -1,0 +1,58 @@
+[
+  {
+    "createdAt": "2021-11-17T21:18:34.725Z",
+    "name": "Spiced Mint",
+    "price": "735.00",
+    "image": "https://raw.githubusercontent.com/minhgiau998/candleaf/master/assets/images/home-products-item-image-01.png",
+    "id": "1"
+  },
+  {
+    "createdAt": "2021-11-17T11:52:50.401Z",
+    "name": "Fresh Orange",
+    "price": "446.00",
+    "image": "https://raw.githubusercontent.com/minhgiau998/candleaf/master/assets/images/home-products-item-image-02.png",
+    "id": "2"
+  },
+  {
+    "createdAt": "2021-11-17T20:20:42.595Z",
+    "name": "Sweet Strawberry",
+    "price": "556.00",
+    "image": "https://raw.githubusercontent.com/minhgiau998/candleaf/master/assets/images/home-products-item-image-03.png",
+    "id": "3"
+  },
+  {
+    "createdAt": "2021-11-18T01:23:39.535Z",
+    "name": "Fragrant Cinnamon",
+    "price": "380.00",
+    "image": "https://raw.githubusercontent.com/minhgiau998/candleaf/master/assets/images/home-products-item-image-04.png",
+    "id": "4"
+  },
+  {
+    "createdAt": "2021-11-18T04:29:01.365Z",
+    "name": "Cool Blueberries",
+    "price": "939.00",
+    "image": "https://raw.githubusercontent.com/minhgiau998/candleaf/master/assets/images/home-products-item-image-05.png",
+    "id": "5"
+  },
+  {
+    "createdAt": "2021-11-17T11:19:55.497Z",
+    "name": "Summer Cherries",
+    "price": "87.00",
+    "image": "https://raw.githubusercontent.com/minhgiau998/candleaf/master/assets/images/home-products-item-image-06.png",
+    "id": "6"
+  },
+  {
+    "createdAt": "2021-11-17T09:32:38.901Z",
+    "name": "Juicy Lemon",
+    "price": "262.00",
+    "image": "https://raw.githubusercontent.com/minhgiau998/candleaf/master/assets/images/home-products-item-image-07.png",
+    "id": "7"
+  },
+  {
+    "createdAt": "2021-11-17T14:36:09.007Z",
+    "name": "PClean Lavander",
+    "price": "529.00",
+    "image": "https://raw.githubusercontent.com/minhgiau998/candleaf/master/assets/images/home-products-item-image-08.png",
+    "id": "8"
+  }
+]

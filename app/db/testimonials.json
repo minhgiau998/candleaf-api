@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Testimonials",
+    "description": "Some quotes from our happy customers",
+    "testimonials": [
+      {
+        "createdAt": "2021-11-18T18:52:39.604Z",
+        "name": "Preston Rempel",
+        "avatar": "https://cdn.fakercloud.com/avatars/mufaddal_mw_128.jpg",
+        "quote": "Candle is worth much more than I paid.",
+        "rating": 5,
+        "id": "1"
+      },
+      {
+        "createdAt": "2021-11-19T04:04:00.359Z",
+        "name": "Valerie Volkman",
+        "avatar": "https://cdn.fakercloud.com/avatars/smaczny_128.jpg",
+        "quote": "I would like to personally thank you for your outstanding product.",
+        "rating": 4,
+        "id": "2"
+      },
+      {
+        "createdAt": "2021-11-19T05:57:19.044Z",
+        "name": "Kendra Turner Jr.",
+        "avatar": "https://cdn.fakercloud.com/avatars/nicolai_larsen_128.jpg",
+        "quote": "Buy this now. It's all good.",
+        "rating": 5,
+        "id": "3"
+      },
+      {
+        "createdAt": "2021-11-19T12:12:44.584Z",
+        "name": "Gertrude Rice",
+        "avatar": "https://cdn.fakercloud.com/avatars/judzhin_miles_128.jpg",
+        "quote": "You won't regret it.",
+        "rating": 4,
+        "id": "4"
+      },
+      {
+        "createdAt": "2021-11-19T02:31:19.485Z",
+        "name": "Alejandro Kihn",
+        "avatar": "https://cdn.fakercloud.com/avatars/arthurholcombe1_128.jpg",
+        "quote": "I love it! No more air fresheners",
+        "rating": 5,
+        "id": "5"
+      },
+      {
+        "createdAt": "2021-11-18T21:33:49.769Z",
+        "name": "Melody Ernser",
+        "avatar": "https://cdn.fakercloud.com/avatars/jpenico_128.jpg",
+        "quote": "Recommended for everyone",
+        "rating": 4,
+        "id": "6"
+      }
+    ]
+  }
+]
